@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.table2 {
+  border-spacing: 0 2cap;
+}
+
+.dark-red {
+  background-color: rgb(143, 18, 18);
+}
+
+.deep-pink {
+  background-color: rgb(226, 70, 169);
+}
+
+.brown {
+  background-color: rgb(143, 77, 48);
+}
+
+.dark-red,
+.deep-pink,
+.brown {
+  text-align: center;
+}
+
+.box_text_color {
+  color: white;
+  padding: 10px;
+  margin: 0;
+}
+
+.td_image_width {
+  width: 570px;
+  height: 400px;
+  display: block;
+}
+
+p {
+  font-family: Arial;
+  font-size: 16px;
+  color: #3d3d3d;
+}
